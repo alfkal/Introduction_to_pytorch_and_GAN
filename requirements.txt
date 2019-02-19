@@ -33,7 +33,6 @@ PySocks==1.6.8
 python-dateutil==2.7.3
 pytz==2018.9
 pywin32==223
-requests==2.19.1
 ruamel-yaml==0.15.46
 six==1.11.0
 torch==0.4.1
