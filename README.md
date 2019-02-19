@@ -7,7 +7,7 @@ A course presented for Sopra Steria Norway
 # Getting started
 1. Clone this github repo.
 
-2. Install PyTorch. In this project we use python 3.6.1 with cuda:
+2. Install PyTorch. In this project we use python 3.6.1:
 
 ```sh
 $ pip3 install torch torchvision
