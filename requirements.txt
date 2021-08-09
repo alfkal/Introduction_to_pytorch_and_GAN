@@ -32,7 +32,7 @@ pyparsing==2.2.2
 PySocks==1.6.8
 python-dateutil==2.7.3
 pytz==2018.9
-pywin32==223
+pywin32==301
 ruamel-yaml==0.15.46
 six==1.11.0
 torch==0.4.1
